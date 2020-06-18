@@ -25,12 +25,13 @@ namespace First_git_project
             Console.WriteLine(jacky.ToString());
             Console.WriteLine();
 
-            /*Student joss = new Student("Joss", 22, "A1234567890");
+            student joss = new student("Joss", 22, "A1234567890");
 
             joss.SaysHello();
             joss.Studies();
 
-            Console.WriteLine(joss.ToString());*/
+            Console.WriteLine(joss.ToString());
+
             Console.ReadLine();
         }
     }
